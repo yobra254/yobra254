@@ -46,3 +46,8 @@ https://www.linkedin.com/in/brian-odhiambo-ab5002190/
 
 </details>
 
+<p align="center">
+   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
+   </p>
+
+
