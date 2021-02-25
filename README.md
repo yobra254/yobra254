@@ -35,8 +35,8 @@ https://www.linkedin.com/in/brian-odhiambo-ab5002190/
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️  Working on a Car Dealership Site [#1](https://github.com/yobra254/CarDelearshipSite)
-2.## 🎉 To be featured - 
+## 1. ❗️  Working on a Car Dealership Site [#1](https://github.com/yobra254/CarDelearshipSite)
+## 2.🎉 To be featured - 
 (a).📫 Shopping Cart : https://github.com/yobra254/Shopping-Cart-Website 
 (b).⚡Covid Site: https://github.com/yobra254/covidWebsite
 
