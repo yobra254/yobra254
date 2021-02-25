@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-https://www.linkedin.com/in/brian-odhiambo-ab5002190/
 
+<a href="https://www.linkedin.com/in/brian-odhiambo-ab5002190/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 <br />
 
