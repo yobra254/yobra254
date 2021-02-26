@@ -42,6 +42,8 @@
 (a).📫 Shopping Cart : https://github.com/yobra254/Shopping-Cart-Website 
 <br/>
 (b).⚡Covid Site: https://github.com/yobra254/covidWebsite
+<br/>
+(c).🤣Application of Machine learning in health and stock prediction
 
 <!--END_SECTION:activity-->
 
