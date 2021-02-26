@@ -44,6 +44,8 @@
 (b).⚡Covid Site: https://github.com/yobra254/covidWebsite
 <br/>
 (c).🤣Application of Machine learning in health and stock prediction
+<br/>
+(d).🌱My portfolio site
 
 <!--END_SECTION:activity-->
 
