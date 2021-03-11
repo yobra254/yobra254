@@ -49,6 +49,8 @@
 
 <!--END_SECTION:activity-->
 
+## Working Projects
+
 </details>
 
 <p align="center">
